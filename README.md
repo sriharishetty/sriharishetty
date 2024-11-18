@@ -46,7 +46,11 @@ Amazon Web Services (Jan 2024 – Mar 2024)
 🏅 Udemy: Java Full Stack Development
 
 📫 Let's Connect!
+
 💼 LinkedIn: https://www.linkedin.com/in/sriharigangisetti/
+
 🛠️ GitHub: https://github.com/sriharishetty 
+
 🌐 Portfolio: https://sriharishetty.netlify.app/
+
 📧 Email: iam.sriharigangisetti@gmail.com
