@@ -11,8 +11,11 @@
 🔧 Technical Skills
 
 Languages: Java, HTML5, CSS3, JavaScript, SQL
+
 Frameworks/Tools: ReactJS, Bootstrap, Tailwind CSS, MySQL, AWS, Selenium, Git, GitHub
+
 Development Methodologies: Agile, Scrum, SDLC, Waterfall
+
 Specialties: API Testing, Debugging, System Design, and Microservices
 
 💼 Work Experience
